@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "simple_calculator"
+rootProject.name = "bg_button"
 include ':app'
